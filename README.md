@@ -1,8 +1,4 @@
-## Hi I'm Micy EK and this is the source code for my website 👋🏼
-
-
-## I am a Programmer / Gamer / Youtuber / Hacker / Artist
-
+## Hi I'm Micy EK and this EK Studios
 
 ## My contacts are
 - [Youtube]
